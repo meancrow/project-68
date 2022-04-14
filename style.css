@@ -1,0 +1,14 @@
+.schoollogo{
+    border-radius: 2000px;
+    margin:20px ;
+}
+#contactheader{
+    color:white;
+    text-align: center;
+}
+.line{
+    width: 100px;
+    height: 10px;
+    background-color: maroon;
+    margin-left: 175px;
+}
